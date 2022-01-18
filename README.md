@@ -18,7 +18,7 @@ The code tries to understand, how much ads do we need to build a proper model.
 The ML algotithm tries to match the existing prices and the locations of the flats. Though the model is very simple, it explains more than 80% of the flats price.
 
 RandomForest process:
-![ Alt text](name-of-gif-file. gif) / ! [](rf_draw_1.gif)
+![](rf_draw_1.gif) 
 
 Linear regression:
-![ Alt text](name-of-gif-file. gif) / ! [](Linear_reg_anim.gif) 
+![](Linear_reg_anim.gif)
