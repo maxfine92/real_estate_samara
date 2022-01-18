@@ -20,5 +20,5 @@ The ML algotithm tries to match the existing prices and the locations of the fla
 RandomForest process:
 ![](rf_draw_1.gif) 
 
-Linear regression:
+Linear regression (xOy are flat location on Samara map, z-axis is flat price for sq meter):
 ![](Linear_reg_anim.gif)
