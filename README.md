@@ -21,4 +21,4 @@ RandomForest process:
 ![ Alt text](name-of-gif-file. gif) / ! [](rf_draw_1.gif)
 
 Linear regression:
-![ Alt text](name-of-gif-file. gif) / ! [](Linear_reg_anim.gif)
+![ Alt text](name-of-gif-file. gif) / ! [](Linear_reg_anim.gif) 
